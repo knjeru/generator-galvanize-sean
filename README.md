@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# generator-galvanize-sean [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-galvanize-sean 
+
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > SEAN App Boilerplate
 
 ## Installation
@@ -17,13 +18,6 @@ Then generate your new project:
 yo galvanize-sean
 ```
 
-## Getting To Know Yeoman
-
- * Yeoman has a heart of gold.
- * Yeoman is a person with feelings and opinions, but is very easy to work with.
- * Yeoman can be too opinionated at times but is easily convinced not to be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
-
 ## License
 
  © [Kevin Njeru](www.knjeru.com)
@@ -37,6 +31,3 @@ yo galvanize-sean
 [daviddm-url]: https://david-dm.org/knjeru/generator-galvanize-sean
 [coveralls-image]: https://coveralls.io/repos/knjeru/generator-galvanize-sean/badge.svg
 [coveralls-url]: https://coveralls.io/r/knjeru/generator-galvanize-sean
-=======
-# generator-galvanize-sean
->>>>>>> 6a91dde26e09623cb9dbce6b1a17f70f95deb6e7
