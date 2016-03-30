@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # generator-galvanize-sean [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > SEAN App Boilerplate
 
@@ -36,3 +37,6 @@ yo galvanize-sean
 [daviddm-url]: https://david-dm.org/knjeru/generator-galvanize-sean
 [coveralls-image]: https://coveralls.io/repos/knjeru/generator-galvanize-sean/badge.svg
 [coveralls-url]: https://coveralls.io/r/knjeru/generator-galvanize-sean
+=======
+# generator-galvanize-sean
+>>>>>>> 6a91dde26e09623cb9dbce6b1a17f70f95deb6e7
